@@ -1,2 +1,4 @@
-# winsvideo-from-scratch
-A newer and better WinsVideo. 
+# WinsVideo 3.0
+Yes, this is the 3rd version of WinsVideo
+
+We are really never gonna give you up. 
